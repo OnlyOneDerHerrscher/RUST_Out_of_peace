@@ -1,0 +1,261 @@
+Find the interactive version of this
+
+Related Roadmaps
+
+roadmap and more roadmaps at
+
+Backend Roadmap
+DevOps Roadmap
+
+roadmap.sh
+
+Go Roadmap
+
+Rust
+
+Syntax and Semantics
+
+What is Rust?
+Introduction
+
+Variables, DataTypes and Constants
+
+Why use Rust?
+
+Environment Setup
+
+Control Flow and Constructs
+
+Installing Rust and Cargo
+
+Functions and Method Syntax
+
+IDEs and Rust Toolchains
+
+Pattern Matching & Destructuring
+
+Rust REPL (Rust Playground)
+
+Language Basics
+
+Constructs
+Enums
+
+Traits
+
+Option and Result Enumerations
+
+Structs
+Error Handling
+
+Propagating Errors and `?` Operator
+
+Impl Blocks
+Custom Error Types and Traits
+Data Structures
+Integers
+
+Floats
+
+Boolean
+
+Character
+
+String
+
+Tuple
+
+Array
+
+Vector
+
+Hashmap
+
+Hashset
+
+LinkedList
+
+Stack
+
+Queue
+
+Code Organization & Namespacing
+Modules & Crates
+
+Dependency Management with Cargo
+Publishing on Crates.io
+
+Binary Heap
+Testing
+
+Ownsership System
+Ownsership Rules & Memory Safety
+
+Unit & Integration Testing
+
+Borrowing, References and Slices
+
+Mocking & Property Based Testing
+
+Deep Dive: Stack vs Heap
+Advanced Topics
+BTreeMap
+Arc
+
+Concurrency & Parallelism
+
+BTreeSet
+
+RC
+
+Mutex
+
+RwLock
+
+Threads, Channels and Message Passing
+Atomic Operations & Memory Barriers
+
+Channels
+
+Futures and Async/Await Paradigm
+
+Trait Definitions & Implementations
+Declarative Macros with macro_rules!
+
+Traits & Generics
+
+Trait Bounds and Associated Types
+
+Procedural Macros & Custom Derive
+
+Generics & Type-Level Programming
+
+Domain Specific Languages (DSLs)
+
+Lifetimes & Borrow Checker
+
+Macros & Metaprogramming
+
+Explicit Lifetime Annotations
+Ecosystem and Libraries
+
+Lifetime Elision Rules
+Covariant & Contravariant Lifetimes
+
+Web Development
+
+Axum
+
+Actix
+
+Leptos
+
+Loco
+Rocket
+
+Personal recommendation: Axum
+Serde
+
+Asynchronous Programming
+
+Tokio
+
+async-std
+
+smol
+
+Networking
+
+reqwest
+
+hyper
+
+ring
+
+toml-rust
+
+Serialization / Deserialization
+
+quinn
+
+Cryptography
+
+termion
+
+json-rust
+
+Database and ORM
+
+rust-crypto
+
+Diesel
+
+sqlx
+
+rusqlite
+
+clap
+
+structopt
+
+sodiumoxide
+
+CLI Utilities
+
+embedded-hal
+tauri
+
+Game Development
+
+bevy
+
+fyrox
+
+gtk-rs
+
+relm
+
+GUI Development
+
+rppal
+
+nrf-hal
+
+Embedded and Systems
+
+ggez
+wasm-pack
+
+macroquad
+
+wgpu-rs
+
+wasmer
+wasm-bindgen
+
+Criterion.rs
+
+Performance and Profiling
+
+WebAssembly (WASM)
+
+Documenting with `rustdoc`
+
+Debugging
+
+rust-gdb
+
+rust-lldb
+
+Continue learning with following roadmaps
+Backend
+
+DevOps
+
+Join ScaleUp:AI '25
+Learn from the world's top
+builders, leaders, and
+innovators in AI.
+PARTNER CONTENT
+
+
