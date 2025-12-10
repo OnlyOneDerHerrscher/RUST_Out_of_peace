@@ -9,4 +9,4 @@
 
 - (16:29) add all plk components as vectors, ex.: plk_1_2, 2 - means component number
 
- 
+- (16:56) build: add function  plk_1 for convinient using 
