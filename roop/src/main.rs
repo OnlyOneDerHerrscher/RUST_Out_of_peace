@@ -13,9 +13,6 @@ fn plk_1() {
 
     let plk_1_3 = ["Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa) QBE2000 -p10 [2]", "pressure sensor QBE620-P [2]"];
 
-    let plk_1_2 = ["Temperature immersion sensor Siemens QAE26.91 [9]"];
-
-    let plk_1_3 = ["Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa) QBE2000 -p10 [2]", "pressure sensor QBE620-P [2]"];
     
     let plk_1_4 = ["Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa for pipe mounting)"];
 
@@ -33,6 +30,38 @@ fn plk_1() {
     let plk_1_10 = ["Unstandart oborydovanie PLK-1"];
 
     println!("SH,H!");
+    
+    for element in plk_1_1 {
+        println!("In 1st part of PLK1 there are next components: {element}")
+    }
+
+    for element in plk_1_2 {
+        println!("In 2nd part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_3 {
+        println!("In 3rd part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_4 {
+        println!("In 4th part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_5 {
+        println!("In 5th part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_6 {
+        println!("In 6th part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_7 {
+        println!("In 7th part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_8 {
+        println!("In 8th part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_9 {
+        println!("In 9th part of PLK1 there are next components: {element}")
+    }
+    for element in plk_1_10 {
+        println!("In 10th part of PLK1 there are next components: {element}")
+    }
     println!("{:?}", plk_1_1);
     println!("{:?}", plk_1_2);
     println!("{:?}", plk_1_3);
