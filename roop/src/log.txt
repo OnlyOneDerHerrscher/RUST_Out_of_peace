@@ -1,0 +1,35 @@
+SSH
+SH,H!
+In 1st part of PLK1 there are next components: BPS1.128 - basic controller [1]
+In 1st part of PLK1 there are next components: BPS1.C1/1E - communication card for Ethernet [1]
+In 1st part of PLK1 there are next components: PVA3.02/V 20 - programming card [1]
+In 1st part of PLK1 there are next components: PTM1.4R1K - Module measuring for LG-sensors [3]
+In 1st part of PLK1 there are next components: PTM1.2U10 - measuring module 0-10V [4]
+In 1st part of PLK1 there are next components: PTM1.4D20 - discrete alarming module [9]
+In 1st part of PLK1 there are next components: PTM1.2Q250 - relay switch module ~250, 4A [11]
+In 1st part of PLK1 there are next components: PTX1.6 [2]
+In 1st part of PLK1 there are next components: PTX1.01 - power module 24V and P-Bus [2]
+In 1st part of PLK1 there are next components: PTG1.32 (modules 1..32) [1]
+In 1st part of PLK1 there are next components: PTG1.64 (modules 33..64) [1]
+In 1st part of PLK1 there are next components: PTG96 (modules 65..96)
+In 1st part of PLK1 there are next components: PDG1.128 (modules 97..128) [1]
+In 2nd part of PLK1 there are next components: Temperature immersion sensor Siemens QAE26.91 [9]
+In 3rd part of PLK1 there are next components: Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa) QBE2000 -p10 [2]
+In 3rd part of PLK1 there are next components: pressure sensor QBE620-P [2]
+In 4th part of PLK1 there are next components: Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa for pipe mounting)
+In 5th part of PLK1 there are next components: Differential pressure relay ДЕМ- 202 on pumps (0..0.2 MPA) [1]
+In 6th part of PLK1 there are next components: Humidity and temperature sensor QFA2040 in the server room otm. 15.600
+In 7th part of PLK1 there are next components: ДМ- 2010сг - electric contact monometr on pumps [1]
+In 8th part of PLK1 there are next components: ДМ- 2010сг - electric contact monometr on pumps [1]
+In 9th part of PLK1 there are next components: QAC22 - Temperature sensor of outside air [1]
+In 10th part of PLK1 there are next components: Unstandart oborydovanie PLK-1
+["BPS1.128 - basic controller [1]", "BPS1.C1/1E - communication card for Ethernet [1]", "PVA3.02/V 20 - programming card [1]", "PTM1.4R1K - Module measuring for LG-sensors [3]", "PTM1.2U10 - measuring module 0-10V [4]", "PTM1.4D20 - discrete alarming module [9]", "PTM1.2Q250 - relay switch module ~250, 4A [11]", "PTX1.6 [2]", "PTX1.01 - power module 24V and P-Bus [2]", "PTG1.32 (modules 1..32) [1]", "PTG1.64 (modules 33..64) [1]", "PTG96 (modules 65..96)", "PDG1.128 (modules 97..128) [1]"]
+["Temperature immersion sensor Siemens QAE26.91 [9]"]
+["Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa) QBE2000 -p10 [2]", "pressure sensor QBE620-P [2]"]
+["Water pressure sensor with analogue output 0-10 V (range of measuring 0 - 1 MPa for pipe mounting)"]
+["Differential pressure relay ДЕМ- 202 on pumps (0..0.2 MPA) [1]"]
+["Humidity and temperature sensor QFA2040 in the server room otm. 15.600"]
+["ДМ- 2010сг - electric contact monometr on pumps [1]"]
+["ДМ- 2010сг - electric contact monometr on pumps [1]"]
+["QAC22 - Temperature sensor of outside air [1]"]
+["Unstandart oborydovanie PLK-1"]
