@@ -1,0 +1,36 @@
+#!/bin/bash
+#rscript: Rust script interpreter
+
+pswd="windir1184"
+user_input=""
+
+read -p "Enter the password, please: " user_input
+
+while [ "$user_input" != "$pswd" ]
+do
+	read -p "Enter the password, please: " user_input
+
+	echo "Wrong password, login denied"
+
+done
+
+echo "Password accepted, login allowed"
+
+
+echo What PLK you interested in[TYPE NUMBER PLEASE]? 
+
+
+read B
+
+if [ "$B" = "1" ]; then
+	 
+	cd /home/wind/workspace/pashyr/RUST_Out_of_peace/roop/src/
+	 cargo run --release | tee log.txt > /dev/null
+	 grep -i plk1 log.txt
+	 
+	
+fi       	
+
+echo SSH
+
+exit 0
