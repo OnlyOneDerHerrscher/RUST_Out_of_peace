@@ -26,3 +26,11 @@
         *./observer*
 
 - (16:40) added password requirements, and now it writes only data about PLK_1 on screen after code execution
+
+================================================================
+
+12.12.2025 
+
+- (9:54) add ocrs library from https://github.com/robertknight/ocrs , that can transport words from text
+Inst: cargo install ocrs-cli --locked
+
